@@ -44,8 +44,8 @@ i += w
 s.close()
 ~~~
 ## OUPUT
-![WhatsApp Image 2026-03-18 at 10 39 32 AM](https://github.com/user-attachments/assets/08f29809-20b1-4a56-a02d-1f7688296f67)
-![WhatsApp Image 2026-03-18 at 10 39 40 AM](https://github.com/user-attachments/assets/a6e4232d-29a0-43b9-b1cc-0632b5805852)
+![WhatsApp Image 2026-03-18 at 11 04 44 AM](https://github.com/user-attachments/assets/18965f1f-6ae1-45db-9ea2-88f3dd0b4648)
+![WhatsApp Image 2026-03-18 at 11 04 44 AM (1)](https://github.com/user-attachments/assets/19b52e1d-ee2b-448a-982d-b1211ba6dcde)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
